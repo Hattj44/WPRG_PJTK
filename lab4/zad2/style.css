@@ -1,0 +1,33 @@
+form{
+    display: block;
+    margin: 0 auto;
+    max-width: 500;
+    padding: 20px;
+}
+label{
+    display: block;
+    margin-bottom: 20px;
+}
+input[type="e-mail"],
+input[type="telefon"],
+input[type="name"]{
+    display: block;
+    width: 500px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+span{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+button{
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+}

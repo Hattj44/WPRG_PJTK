@@ -1,0 +1,15 @@
+
+.potomek1,
+.potomek2,
+.potomek3{
+    font-weight: 500;
+    font-size: large;
+    margin-bottom: -5;
+}
+body {
+    line-height: 0.3;
+}
+.wnuk,
+.potomek3{
+    color: red;
+}
